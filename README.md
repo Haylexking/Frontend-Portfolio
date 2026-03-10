@@ -1,52 +1,83 @@
-# 👋 Alexander Akerele – Frontend Developer Portfolio
+<div align="center">
+  <h1>👋 Hi, I'm Alexander Akerele</h1>
+  <h3>Frontend Developer | Crafting Intuitive Web Experiences</h3>
+</div>
 
-Welcome to my frontend portfolio. I'm a developer passionate about building user-focused web applications that are not just functional, but intuitive and visually coherent.
+<br/>
 
-My work spans e-commerce platforms, civic web solutions, UI-focused builds, and collaborative projects — all with a consistent focus on clarity, responsiveness, and performance.
+Welcome to my frontend portfolio! I am a developer deeply passionate about building user-focused web applications that are not just functional, but intuitive, visually coherent, and accessible. 
+
+My work spans across e-commerce platforms, civic web solutions, UI-focused builds, and collaborative projects — all driven by a consistent focus on clarity, modern aesthetics, responsiveness, and performance.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- React / Next.js  
-- TypeScript / JavaScript  
-- Tailwind CSS  
-- Firebase  
-- HTML & CSS  
-- Git & GitHub  
-- Vercel (deployment)
+- **Core:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+- **Frameworks & Libraries:** React.js, Next.js
+- **Styling:** Tailwind CSS, Vanilla CSS
+- **Backend & Services:** Firebase
+- **Tools & Platforms:** Git, GitHub, Vercel, Figma (UI/UX)
 
 ---
 
 ## 💼 Selected Projects
 
-### 🐓 Folu Farms  
-A poultry e-commerce platform built to manage real-time ordering, admin-side order tracking, and payment-on-delivery. Integrated Firebase for product storage, order handling, and email notifications.  
-**Tech:** React, Firebase, Tailwind CSS  
-[View Repo](https://github.com/Zemtek/Folu-farm)
+### 🧸 [Dammydays Care](https://dammysdaycare.vercel.app/)
+> **A complete childcare management platform.**  
+> Streamlines daycare operations by providing dedicated scheduling tools, parent communication features, and intuitive activity tracking interfaces.
+> 
+> **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS  
+> 🔗 [Live Demo](https://dammysdaycare.vercel.app/) • 💻 [Source Code](https://github.com/Haylexking/dammysdaycare)
 
 ---
 
-### 🏛️ Ondo MOI Website  
-A redesign and rebuild of the Ondo State Ministry of Information platform. Focused on improving access to public communication and resources through a clean, responsive interface.  
-**Tech:** Next.js, React, Tailwind CSS  
-[View Repo](https://github.com/Haylexking/ondo-moi)
+### 🏛️ [Ondo MOI Website](https://ondo-moi.vercel.app/)
+> **A redesign of the Ondo State Ministry of Information platform.**  
+> Focused on significantly improving access to public communication and resources through a clean, performant, and responsive interface.
+> 
+> **Tech Stack:** Next.js, React, Tailwind CSS  
+> 🔗 [Live Demo](https://ondo-moi.vercel.app/) • 💻 [Source Code](https://github.com/Haylexking/ondo-moi)
 
 ---
 
-### 🧠 UX Design Portfolio  
-A collection of real-world UX case studies and UI work, including Kukeat, iDonate, and Convaya. Highlights my UX thinking, structure, and interface design process.  
-**Tech:** Figma, UX Research, Storytelling  
-[View Repo](https://github.com/Haylexking/Portfolio)
+### 🧠 [UX Design Portfolio](https://portfolio-eight-rho-87.vercel.app/)
+> **A collection of real-world UX case studies and UI work.**  
+> Includes extensive projects such as Kukeat, iDonate, and Convaya. Highlights my UX thinking, structural planning, and interface design process from wireframes to final product.
+> 
+> **Tech Stack:** Figma, UX Research, Storytelling  
+> 🔗 [Live Demo](https://portfolio-eight-rho-87.vercel.app/) • 💻 [Source Code](https://github.com/Haylexking/Portfolio)
 
 ---
 
-### 🎯 YIP Task – Landing Page (HTML/CSS)  
-A task submission focused on frontend implementation of a UI design using vanilla HTML and CSS. Executed with attention to layout accuracy, mobile responsiveness, and visual consistency.  
-**Tech:** HTML, CSS  
-[View Repo](https://github.com/Haylexking/YIP-Online-task)
+### 🐓 Folu Farms
+> **A real-time poultry e-commerce platform.**  
+> Built to manage real-time ordering, comprehensive admin-side order tracking, and payment-on-delivery. Integrated Firebase for robust product storage, order handling, and instant email notifications.
+> 
+> **Tech Stack:** React, Firebase, Tailwind CSS  
+> 💻 [Source Code](https://github.com/Zemtek/Folu-farm)
 
 ---
 
-## 📫 Contact  
-Feel free to reach out for collaboration, freelance work, or full-time opportunities.
+### 🎯 YIP Task – Landing Page
+> **A pixel-perfect frontend implementation of a UI design.**  
+> A task submission built using vanilla HTML and CSS, executed with strict attention to layout accuracy, mobile responsiveness, and cross-browser visual consistency.
+> 
+> **Tech Stack:** HTML, CSS  
+> 💻 [Source Code](https://github.com/Haylexking/YIP-Online-task)
+
+---
+
+## 📫 Let's Connect
+
+I am currently open to exciting full-time frontend roles, freelance work, and collaborative opportunities. Let's build something great together.
+
+- 📧 **Email:** [Your Email Here]  
+- 💼 **LinkedIn:** [Your LinkedIn URL Here]  
+- 🐦 **Twitter/X:** [Your Twitter URL Here]
+
+<br/>
+
+<div align="center">
+  <i>"Simplicity is the soul of efficiency."</i>
+</div>
