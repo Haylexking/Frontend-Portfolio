@@ -23,6 +23,20 @@ My work spans across e-commerce platforms, civic web solutions, UI-focused build
 
 ## 💼 Selected Projects
 
+### 🎮 [Moooves](https://moooves-test.vercel.app/)
+> **A full-featured competitive gaming platform frontend.**  
+> Built for seamless tournament management and real-time multiplayer experiences. This project focuses on **scalable architecture, real-time interactions, and complex state handling**, delivering a smooth and responsive user experience.
+>
+> **Key Highlights:**
+> - Real-time multiplayer interactions using WebSockets.
+> - Tournament system with bracket management and live score tracking.
+> - Structured state management with Zustand and modular architecture.
+> 
+> **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Zustand  
+> 🔗 [Live Demo](https://moooves-test.vercel.app/) • 💻 [Source Code](https://github.com/Haylexking/moooves)
+
+---
+
 ### 🧸 [Dammydays Care](https://dammysdaycare.vercel.app/)
 > **A complete childcare management platform.**  
 > Streamlines daycare operations by providing dedicated scheduling tools, parent communication features, and intuitive activity tracking interfaces.
@@ -56,6 +70,15 @@ My work spans across e-commerce platforms, civic web solutions, UI-focused build
 > 
 > **Tech Stack:** React, Firebase, Tailwind CSS  
 > 💻 [Source Code](https://github.com/Zemtek/Folu-farm)
+
+---
+
+### 📊 [Tradestack Survey](https://github.com/Haylexking/tradestack)
+> **A structured survey platform for the Tradestack ecosystem.**  
+> Designed to collect user insights with a focus on clarity, usability, and efficient data input, improving completion rates and user engagement.
+> 
+> **Tech Stack:** React, Tailwind CSS  
+> 💻 [Source Code](https://github.com/Haylexking/tradestack)
 
 ---
 
